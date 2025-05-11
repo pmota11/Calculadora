@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\annun\\source\\repos\\Calculadora\\Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8550A7F-9471-48D0-BFC0-475717F9140F}|Calculadora.pyproj|C:\\Users\\annun\\source\\repos\\Calculadora\\Calculadora\\teste.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F8550A7F-9471-48D0-BFC0-475717F9140F}|Calculadora.pyproj|solutionrelative:teste.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "teste.py",
+              "DocumentMoniker": "C:\\Users\\annun\\source\\repos\\Calculadora\\Calculadora\\teste.py",
+              "RelativeDocumentMoniker": "teste.py",
+              "ToolTip": "C:\\Users\\annun\\source\\repos\\Calculadora\\Calculadora\\teste.py",
+              "RelativeToolTip": "teste.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-05-11T19:13:58.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
